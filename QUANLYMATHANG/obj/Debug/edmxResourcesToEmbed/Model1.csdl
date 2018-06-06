@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyMatHangModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QuanLyMatHangEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="HANGHOAs" EntityType="QuanLyMatHangModel.HANGHOA" />
+  </EntityContainer>
+  <EntityType Name="HANGHOA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="MAHANG" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="TENHANG" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SOLUONG" Type="Int32" Nullable="false" />
+    <Property Name="GIATIEN" Type="Int32" Nullable="false" />
+    <Property Name="ANH" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+</Schema>

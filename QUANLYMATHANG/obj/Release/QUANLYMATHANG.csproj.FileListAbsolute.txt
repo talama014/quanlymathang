@@ -1,0 +1,15 @@
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\QUANLYMATHANG.exe.config
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\QUANLYMATHANG.exe
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\QUANLYMATHANG.pdb
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\EntityFramework.dll
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\EntityFramework.xml
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.Fuction.FormAdd.resources
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.Fuction.FormEdit.resources
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.Fuction.MatHang.resources
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.Properties.Resources.resources
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.csproj.GenerateResource.Cache
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.exe
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.pdb
+C:\Users\PhuTai\documents\visual studio 2013\Projects\QUANLYMATHANG\QUANLYMATHANG\obj\Release\QUANLYMATHANG.csprojResolveAssemblyReference.cache
